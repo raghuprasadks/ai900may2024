@@ -1,0 +1,84 @@
+https://www.youtube.com/watch?v=US1Mv00MCgo
+
+https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-first-experiment-automated-ml?view=azureml-api-2
+
+azureml://subscriptions/c72da921-2611-42df-b7ae-afa640b3d656/resourcegroups/ai900mlpractice/workspaces/ai900mlws/datastores/workspaceblobstore/paths/UI/2024-04-01_093522_UTC/bankmarketing_train.csv
+
+https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification
+
+https://learn.microsoft.com/en-us/training/courses/ai-900t00
+
+https://learn.microsoft.com/en-us/training/courses/ai-900t00#course-syllabus
+
+
+https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/
+
+
+
+Exam AZ-900: Microsoft Azure Fundamentals - REVA trainings 
+
+
+https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/
+
+final:
+
+https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification#certification-prepare-for-the-exam
+
+https://www.youtube.com/watch?v=hHjmr_YOqnU
+
+exampro.co
+
+https://www.geeksforgeeks.org/regression-metrics/
+
+https://www.geeksforgeeks.org/confusion-matrix-machine-learning/
+
+https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-first-experiment-automated-ml?view=azureml-api-2
+
+
+https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-azure-ml-in-a-day?view=azureml-api-2
+
+ml.azure.com
+
+
+Step 1 - https://portal.azure.com/
+Step 2 - Login
+Step 3 - Azure Machine Learning
+Step 4 - Create New Workspace
+Step 5 - Resource Group
+27may24resourcegroup
+Step 6- Workspace name
+27mayworkspace
+Step 7 - Create and Review
+Step 8 - create
+Step 9 - View Resource
+Step 10 - Launch Studio
+
+1.Automated ML
+2. New Automated ML Job
+3. Job Name - Home Price Prediction
+4. Experiment Name
+homepricepredictionexperiment
+5. Select task type
+Regression
+Create data asset
+Name : homprice
+type : Tabular
+
+
+Designer
+Explore sample example
+
+
+Responsible AI
+
+Azure Cognitive Services
+
+Computer Vision
+OpenCV
+YOLO
+
+CV2
+
+
+
+

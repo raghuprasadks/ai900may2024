@@ -1,0 +1,70 @@
+Dataset
+Label - Grocery - packed items
+labelled 
+sklearn - 
+json - Java Script object notation
+
+Key : value
+
+{
+"name":"xyz",
+"course":"bca",
+"sem":4
+}
+
+def add(n1,n2):
+ return n1+n2
+
+ANN
+CNN
+RNN
+
+ML Pipeline
+Step by step activities to be performed
+in ML
+
+Categorial data
+Fruit - 1
+Flower - 2
+Vegetable -3
+
+training - 70 to 80
+testing - 
+
+deploy
+web 
+mobile
+
+API - Application Programming interface
+model - API
+
+Matrix in machine learning
+8 CGPA
+hackathon
+development of application
+meetup
+https://www.geeksforgeeks.org/regression-metrics/
+https://www.geeksforgeeks.org/detect-an-object-with-opencv-python/
+
+
+create virtual environment..
+
+virtualenv env
+
+.\env\Scripts\activate
+
+
+https://www.geeksforgeeks.org/opencv-python-program-face-detection/
+
+
+
+https://github.com/Itseez/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml 
+
+
+https://github.com/Itseez/opencv/blob/master/data/haarcascades/haarcascade_eye.xml
+
+Azure Computervision
+
+https://portal.vision.cognitive.azure.com/gallery/featured
+
+

@@ -1,0 +1,145 @@
+Agenda:
+1. Introduction to AI,ML - done
+2. Introduction to AI-900 - done
+3. Machine learning algorithm using 
+google  colab
+
+4. Official website of AI-900
+https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification
+
+generative ai
+GitHub copilot - free trail
+
+extension in visual studio code
+GitHub copilot
+GitHub copilot-chat
+
+https://portal.azure.com/
+
+Azure Machine Learning
+Azure Machine Learning Studio
+Sample example
+
+Create Azure ML Compute
+
+
+
+
+
+4. Account with azure
+Run sample programs in azure machine learning
+
+
+Natural intelligence
+think,learn,explore
+
+buy groceries..
+labelled data - grain - name
+
+name flowers,vegetables
+thick book
+A- Apple
+B - Ball
+C  - Cat
+
+Machine learning
+supervised - 
+data is labelled data
+
+set of fruits which are labelled
+images to the machine
+
+input and output
+data -  label
+
+
+data is not labelled in unsupervised
+machine learning
+
+village - different kind of fruits
+shape,size,smell 
+jack fruits - group
+
+re-inforcement 
+playing a chess game
+driver less car
+
+what is the price of petrol in 
+next week
+regression or classification
+supervised - 110,99,89,108
+unsupervised
+
+is it going to rain on sunday
+Yes/No/maybe - classification
+
+working in a bank as a data engineer
+set of financial transactions
+find any fraudulent transaction
+Yes/No
+Supervised machine learning -
+date,amout, labelled
+anomaly detection
+
+driverless car - what kind of machine learning - re-inforcement.. machine learning
+
+google colab..
+azure ml
+
+1. Simple linear regression using google colab
+homeprices.csv
+area - independent
+price - dependent
+
+feed this data to model
+area to the model 
+predict the price
+regression
+linear regression
+as area increases
+price is also increasing
+y=mx+c
+m - slope
+c - intercept
+x - independent
+y - dependent
+
+Steps:
+1. search for google colab in chrome
+2. Sign up with gmail
+3. click on new notebook
+4. Rename the notebook as linearregressiondemo.ipynb
+5. To upload data
+click on files icon
+and upload the file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+un-supervised
+reinforcement
+
+
+artificial intelligence
+making intelligent machine
+
+huge data
+computing power
+algorithms/open source
+AI
+
