@@ -5,12 +5,16 @@ b. Terminate the process of manufacturing when exceptionally high temperatures a
 c. Sort email messages into two categories: work-related and personal.
 d. Predict the number of people that will reserve a hotel based on previous data
 
+Answer : c
+
 2. A healthcare organization intends to use Azure AI to develop a solution for analyzing medical images to assist in early disease detection. Which of the following considerations is most critical when implementing this AI solution to ensure its effectiveness and compliance with healthcare regulations?
 	
 a. Ensuring the AI model's decisions are explainable and transparent.
 b. Maximizing the speed of the image analysis.
 c. Prioritizing the use of open-source AI models for easier implementation.
 d. Focusing exclusively on the highest possible accuracy in disease prediction.
+
+Answer : a
 
 3. You need to build an image tagging solution for social media that tags images of your friends automatically.
 Which Azure Cognitive Services (Azure AI services) service should you use?
@@ -22,12 +26,16 @@ c. Form Recognizer
 d. Personalizer
 e. Text Analytics
 
+Answer : a,b
+
 4.What type of workload is used to identify celebrities in images?
 	
 a. Image classification
 b. Facial recognition
 c. Optical character recognition (OCR)
 d. Object detection
+
+Answer : b
 
 5. Which of the following are three of Microsoft's guiding principles for responsible AI? (Choose 3)
 
@@ -37,6 +45,8 @@ c. Reliability and Safety
 d. Knowledgeability
 e. Decisiveness
 
+Answer : a,b,c
+
 6. When utilizing Azure's generative AI capabilities for a project that involves creating synthetic media, which Azure service would be most appropriate to integrate for real-time moderation and content filtering to ensure the generated media adheres to ethical guidelines and company policies?
 
 a. Azure Content Moderator
@@ -44,22 +54,29 @@ b. Azure Machine Learning
 c. Azure Bot Service
 d. Azure Cognitive Search
 
+Answer : a
+
 7. This series of questions is part of a case study. Please review the available information using the navigation menu before you answer.
 
 Part 1 - For analyzing health and fitness data, which Azure AI services should WellFit Health Solutions utilize?
 
 	
-a. Azure Cognitive Search for data indexing and search and Azure Digital Twins for creating virtual models of health routines, enhancing data searchability and digital modeling.
-b. Azure Databricks for data processing and Azure Personalizer for delivering personalized recommendations, optimizing for real-time data processing and individualized user experiences.
-c. Azure Synapse Analytics for large-scale data analysis and Azure Bot Services for building the virtual assistant, ensuring comprehensive data analysis and interactive capabilities.
-d. Azure Machine Learning for building predictive models and Azure Cognitive Services for natural language processing, focusing on data insights and user interaction.
+a.Azure Synapse Analytics for large-scale data analysis and Azure Bot Services for building the virtual assistant, ensuring comprehensive data analysis and interactive capabilities.
+b. Azure Machine Learning for building predictive models and Azure Cognitive Services for natural language processing, focusing on data insights and user interaction.
+c.Azure Cognitive Search for data indexing and search and Azure Digital Twins for creating virtual models of health routines, enhancing data searchability and digital modeling.
+d. Azure Databricks for data processing and Azure Personalizer for delivering personalized recommendations, optimizing for real-time data processing and individualized user experiences.
+
+Answer : b
+
 
 Part 2 - What Azure service is most suitable for developing an AI-powered virtual health assistant?
 
-a.Azure Bot Services for creating intelligent, conversational bots, providing a natural and interactive user experience.
-b.Azure Logic Apps for automating workflows and responses, enabling efficient process automation.
-c. Azure Machine Learning for implementing advanced AI algorithms, offering tailored health advice.
-d.Azure Cognitive Services – Language Understanding (LUIS) for understanding user intents, ensuring accurate responses to health queries.
+a.Azure Machine Learning for implementing advanced AI algorithms, offering tailored health advice.
+b.Azure Cognitive Services – Language Understanding (LUIS) for understanding user intents, ensuring accurate responses to health queries.
+c. Azure Bot Services for creating intelligent, conversational bots, providing a natural and interactive user experience.
+d.Azure Logic Apps for automating workflows and responses, enabling efficient process automation.
+
+Answer : b
 
 Part 3 - To provide customized fitness programs and diet plans, which combination of Azure AI services should WellFit Health Solutions implement?
 
@@ -69,6 +86,8 @@ b. Azure Cognitive Services – Speech for voice-enabled fitness guidance and Az
 c. Azure Personalizer to tailor recommendations based on user behavior and Azure Machine Learning for predictive analytics, focusing on individual preferences and predictive insights.
 d. Azure Cognitive Services – Vision for analyzing dietary and fitness images and Azure QnA Maker for creating a responsive FAQ system, optimizing for visual data analysis and informational responses.
 
+Answer : c
+
 
 8. Which of the following is an example of voice menus for the telephone system?
 	
@@ -76,6 +95,8 @@ a. Speech Recognition
 b. QnA Maker
 c. Speech Synthesis
 d. Text Analytics
+
+Answer : c
 
 9. You are required to divide an existing dataset into a training set and a validation set.
 Which Azure Machine Learning designer module would be most appropriate?
@@ -85,12 +106,16 @@ b. Split Data
 c. Join Data
 d. Add Rows
 
+Answer : b
+
 10. In machine learning, what step involves categorizing training data for a supervised learning task?
 	
 a. Evaluation
 b. Labeling
 c. Hyperparameter tuning
 d. Feature engineering
+
+Answer : b
 
 11. A company needs to create a machine learning model to predict the Income Range of customers. The company is given a dataset that provides a list of customers with their - Full Name, Age, Education Level, Income Range.
 What fields should be used as features? (Choose 2)
@@ -101,12 +126,16 @@ b. Income Range
 c. Education Level
 d. Age
 
+Answer : c,d
+
 12. How can developers customize copilots for specific business applications?
 
 a. By training models from scratch
 b. By fine-tuning pre-trained models with custom data
 c. By manually writing responses for the copilot
 d. By increasing the storage capacity of the application
+
+Answer : b
 
 13. Which of the following scenarios should the Speech recognition service be used? (Choose 2)
 (Choose 2)
@@ -117,6 +146,8 @@ b. Creating an automated public address system for a train station
 c. Creating a transcript of a business meeting
 d. Customer verification at the call center
 
+Answer : c,d
+
 14. Which Text Analytics API feature should be used when summarizing important information from a support ticket?
 
 	
@@ -124,6 +155,9 @@ a. Language detection
 b. Named entity recognition (NER)
 c. Key phrase extraction
 d. Sentiment Analysis
+
+
+Answer : c
 
 15. What is the primary function of Azure OpenAI Service?
 
@@ -133,6 +167,8 @@ b. To offer cloud-based large language model services
 c. To facilitate online payment processing
 d. To manage Azure cloud infrastructure
 
+Answer : b
+
 16. Which of the following scenarios is an example of a conversational AI service? (Choose 2)
 (Choose 2)
 	
@@ -141,12 +177,16 @@ b. Terminating the operating machine when the temperature reaches a specific thr
 c. A smart home device that can respond to questions and act on commands
 d. A website that utilizes a knowledge base to respond to users' questions in an interactive manner.
 
+Answer : c,d
+
 17. Which of the following statements is true about Azure Bot Service? (Choose 2)
 (Choose 2)
 
 a. Azure Bot Service can import frequently asked questions (FAQ) to question and answer sets
 b. It is possible to integrate Azure Bot Service and Azure Cognitive Services.
 c. Azure Bot Service can interact with customers in a conversational manner
+
+Answer : b,c
 
 18. An organization plans to implement an AI solution on Azure to enhance customer service interactions through natural language understanding and speech recognition. Which Azure service would be most appropriate for building a conversational AI that can understand and respond to customer inquiries in a human-like manner?
 
@@ -155,12 +195,17 @@ b. Azure Machine Learning
 c. Azure Data Lake Storage
 d. Azure Bot Service with Language Understanding (LUIS)
 
+Answer : d
+
+
 19. Which Natural Language Processing (NLP) technique is used to extract specific information like dates, quantities, and locations from text?
 	
 a. Key phrase extraction
 b. Named Entity Recognition (NER)
 c. Sentiment analysis
 d. Language detection
+
+Answer : b
 
 20. A business plans to build a bot from data used in a frequently asked questions (FAQ) document. What AI service is best suited for this task?
 
@@ -170,6 +215,8 @@ b. Speech
 c. QnA Maker
 d. Language Understanding (LUIS)
 
+Answer : c
+
 
 21. Which two languages can you use to write custom code for Azure Machine Learning designer? (Choose 2)
 	
@@ -178,6 +225,8 @@ b. Python
 c. Scala
 d. C#
 
+Answer : a,b
+
 22. What is the nature of labels in a classification model?
 
 a. Numeric
@@ -185,6 +234,7 @@ b. Categorical
 c. Binary only
 d. Not required
 
+Answer : b
 23. Which two actions are performed during the data ingestion and data preparation stage of an Azure Machine Learning process?
 (Choose 2)
 
@@ -193,12 +243,15 @@ b. Combine multiple datasets.
 c. Score test data by using the model.
 d. Calculate the accuracy of the model.
 
+Answer : a,b
 24. The Custom Vision service is capable of object detection in images.
 
 Is this statement true?
 
 a. False
 b. True
+
+Answer : b
 
 25. If you need to automatically extract text, key/value pairs, and table data from scanned documents, which service is most suitable?
 
@@ -207,7 +260,7 @@ b. Form Recognizer
 c. Text Analytics
 d. Face
 
-
+Answer : b
 
 
 

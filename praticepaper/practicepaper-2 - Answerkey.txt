@@ -1,0 +1,243 @@
+1.A business is developing an AI system that will empower everyone, including people with hearing, vision, and other disabilities. Which principle of responsible AI does the AI system follow?
+
+a. Reliability and safety
+b. Accountability
+c. Privacy and security
+d. Inclusiveness
+
+Answer : d
+
+2. A city government aims to enhance public safety by using Azure AI to analyze real-time CCTV footage across the city for unusual activities or potential hazards. This system should alert authorities promptly when it detects something of concern. Which Azure service is most appropriate for processing and analyzing the video data in real time?
+	
+a. Azure Cognitive Services for Vision
+b. Azure Machine Learning
+c. Azure Video Analyzer
+d. Azure IoT Hub
+
+Answer : c
+
+
+3. Your objective is to forecast the number of animals in a specific region.
+Which type of Azure Machine Learning model would be most appropriate?
+	
+a. Clustering
+b. Classification
+c. Regression
+d. Anomaly Detection
+
+Answer : c
+
+4. In the Azure Machine Learning designer, what two entities can you directly place onto the canvas to construct your machine learning workflow?
+(Choose 2)
+	
+a. Module
+b. Compute
+c. Dataset
+d. Pipeline
+
+Answer : a,c
+
+5. What type of AI application is used to count the number of animals in an area based on a video feed?
+
+	
+a. Forecasting
+b. Conversational AI
+c. Computer Vision
+d. Anomaly Detection
+
+Answer : c
+
+6. An online retailer is looking to enhance customer experience on their website using Azure AI. They want to implement a feature that recommends products to customers based on their browsing history, previous purchases, and preferences. Which Azure service should be primarily used to develop and deploy this personalized recommendation system?
+
+a. Azure Machine Learning
+b. Azure Cognitive Services for Decision
+c. Azure Personalizer
+d. Azure Synapse Analytics
+
+Answer : c
+
+7. A city's public transportation department wants to use Azure AI to improve bus route planning by analyzing passenger count and traffic conditions. The goal is to optimize routes for efficiency and minimize travel time. Which combination of Azure services would be most effective for this purpose?
+
+	
+a. Azure IoT Hub and Azure Stream Analytics
+b. Azure Machine Learning and Azure Digital Twins
+c. Azure Maps and Azure Cognitive Services for Vision
+d. Azure Cognitive Services for Language and Azure Logic Apps
+
+Answer : a
+
+8. You need to build an app that will read recipe instructions aloud to support users who have reduced vision.
+Which version service should you use?
+
+	
+a. Text Analytics
+b. Translator
+c. Speech
+d. Language Understanding (LUIS)
+
+Answer : c
+
+9.A real estate agency wants to enhance its website by implementing an Azure AI solution that automatically generates detailed property descriptions based on images and basic information uploaded by agents. Which Azure service would be most effective for creating these descriptive narratives from visual and textual inputs?
+	
+a. Azure Cognitive Services for Vision
+b. Azure Machine Learning
+c. Azure Cognitive Services for Language
+d. A combination of Azure Cognitive Services for Language and Vision
+
+Answer : d
+
+10. A manufacturing company plans to use Azure AI to monitor and predict equipment failures before they occur, using sensor data from the production line. This predictive maintenance approach aims to reduce downtime and maintenance costs. Which Azure service should be primarily utilized for analyzing sensor data and predicting equipment failures?
+
+	
+a. Azure IoT Hub
+b. Azure Machine Learning
+c. Azure Digital Twins
+d. Azure Stream Analytics
+
+Answer : b
+
+11. You need to make the written press releases of your company available in a range of languages.
+Which service should you use?
+
+a. Speech
+b. Text Analytics
+c. Translator
+d. Language Understanding (LUIS)
+
+Answer : c
+
+12. What task is performed by facial recognition technology to find a specific individual within a group of people?
+
+a. Grouping
+b. Similarity
+c. Identification
+d. Verification
+
+Answer : c
+
+13. Where should you deploy the model using the Azure Machine Learning designer to provide a real-time inference pipeline as a service for others to use?
+	
+a. AutoML
+b. Azure Bot Service
+c. A local web service
+d. Azure Kubernetes Service (AKS)
+
+Answer : d
+
+14. What metrics does Azure Machine Learning use to evaluate the regression model? (Choose 3)
+(Choose 3)
+
+a. Mean Absolute Error (MAE)
+b. Coeffect of Determination (R^2)
+c. Accuracy
+d. Root Mean Squared Error (RMSE)
+
+Answer : a,b,d
+
+15. Which facial recognition task involves determining if two images show the same individual?
+
+a. Grouping
+b. Identification
+c. Verification
+d. Similarity
+
+Answer : c
+
+16. Which capabilities are provided by models supported by Azure OpenAI Service? (Select all that apply.)
+(Choose 3)
+
+a. Image processing and generation
+b. Text to numeric vector conversion
+c. Natural language generation
+d. Cloud infrastructure provisioning
+
+Answer : a,b,c
+
+
+17. You have insurance claim reports that are stored as text. You need to extract key terms from the reports to generate summaries.
+Which type of AI workload should you use?
+
+	
+a. conversational AI
+b. anomaly detection
+c. natural language processing
+d. computer vision
+
+Answer : c
+
+18. An agricultural company wants to implement an Azure AI solution to optimize crop yield predictions based on various factors like weather data, soil conditions, and historical yield data. Which Azure service should be primarily used for developing a predictive model that can accurately forecast crop yields?
+
+a. Azure IoT Hub
+b. Azure Cognitive Services for Vision
+c. Azure Machine Learning
+d. Azure Stream Analytics
+
+Answer : c
+
+19. Which machine learning type would you use to classify images as either containing polar bears or brown bears?
+
+a. Facial recognition
+b. Object detection
+c. Facial detection
+d. Image classification
+e. Optical character recognition (OCR)
+
+Answer : d
+
+20. Which of the following is a use case for classification?
+
+a. evaluating image content and grouping photographs with similar color palettes
+b. predicting how long it will take someone to complete a race based on previous race times
+c. predicting how many cups of water a person will drink based on the number of hours they spent in the gym
+d. identifying whether the prospective customer will buy a bike or not
+
+Answer : d
+
+21. A media company wants to use Azure AI to automatically generate captions for images in their digital archive. The solution should be able to describe the content of each image accurately. Which Azure service is the most appropriate choice for this task?
+
+a. Azure Machine Learning
+b. Azure Bot Service
+c. Azure Cognitive Services for Vision
+d. Azure Cognitive Services for Language
+
+Answer : c
+
+22. A logistics company plans to use Azure AI to optimize its delivery routes by predicting traffic conditions and calculating the most efficient routes in real-time. Which Azure service should be primarily utilized to integrate real-time traffic data and predictive analytics into the route optimization process?
+
+a. Azure Stream Analytics
+b. Azure Machine Learning
+c. Azure Maps
+d. Azure IoT Hub
+
+Answer : a
+
+23. A sports analytics company wishes to use Azure AI to develop a system that can analyze video footage from games to provide real-time statistics and insights. This system should be able to identify players, track their movements, and analyze game patterns. Which Azure service would be the most appropriate to achieve this goal?
+	
+a. Azure Cognitive Services for Vision
+b. Azure Machine Learning
+c. Azure Video Analyzer
+d. Azure Stream Analytics
+
+Answer : c
+
+24. An educational institution is planning to use Azure AI to create a virtual tutor that can assist students in learning new languages through interactive exercises and feedback. Which combination of Azure services would be most effective for developing this virtual tutor?
+
+a. Azure Machine Learning and Azure Digital Twins
+b. Azure Synapse Analytics and Azure Cognitive Search
+c. Azure Bot Service and Azure Cognitive Services for Language
+d. Azure Functions and Azure Logic Apps
+
+Answer : c
+
+25. For which two of the following scenarios is the Form Recognizer service appropriately used? (Choose 2)
+	
+a. Identify the retailer from a receipt.
+b. Translate a form from French to English.
+c. Extract the invoice number from an invoice.
+d. Find image of product in a catalog.
+
+Answer : a,c
+
+
+
+
