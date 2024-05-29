@@ -3,3 +3,9 @@ Agenda:
 1. Recap
 2. MCQ - Analyze
 3. Few more MCQ practice paper
+4. GitHub co-pilot
+
+Cloud Computing
+Azure - Open AI
+
+Projects with Azure SDK
